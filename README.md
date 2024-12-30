@@ -56,7 +56,7 @@ Before running the game, make sure you have the following installed:
 ## Installation Steps
 
 1. **Clone the Repository:
-      git clone **
+      git clone https://github.com/Im-Krishna-25/Snake-Game **
     
 2. **Install Pygame:
       If Pygame is not installed, install it using pip: pip install pygame**
